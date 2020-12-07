@@ -9,7 +9,7 @@
 
 .grid-container > div {
     
-    background: rgb(235, 235, 235); 
+    background: rgb(255, 217, 217); 
 }
 
 .grid-container div:nth-child(2n) {
