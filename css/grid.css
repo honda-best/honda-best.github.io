@@ -1,0 +1,21 @@
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat (3, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+    margin: 0 auto;
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+}
+
+.grid-container > div {
+    <!-- font-size: 2rem;
+     padding: 1em; -->
+    background: steelblue; 
+}
+
+.grid-container div:nth-child(2n) {
+    background-color: rgb(238, 252, 177)
+}
+
+
+   a::before {content: "New"}
