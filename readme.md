@@ -7,11 +7,9 @@
 
 * HTML
 
-* CSS (Bootstrap)
+* CSS 
 
-* JavaScript (jQuery, Popper )
-
-* Web-fonts (Roboto)
+* Web-fonts (Open Sans, sans-serif)
 
 ## Как открыть/запустить
 
